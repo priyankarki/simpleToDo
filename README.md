@@ -12,19 +12,21 @@ The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
-* [] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/priyankarki/simpleToDo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/priyankarki/simpleToDo/blob/master/terminalError.png' alt='Terminal error' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-While I was completing the work with the tutorial I was able to implement all of the features, but after adding the list of items persistence, the app has continued to fail removing items, as well as the persistence. The terminal primarily displays this error as the app crashes when there is a long press to delete an item or when the app is restarted to show the item persistence, as shown above in the walkthrough.
+While I was completing the work with the tutorial I was able to implement all of the features in the code. However, after adding the list of items persistence, the app fails to remove items and the persistence of items causes the app to crash. The terminal primarily displays the error below, as the app crashes when there is a long press to delete an item or when the app is restarted to show the item persistence, as shown above in the walkthrough.
+
+<img src='https://github.com/priyankarki/simpleToDo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## License
 
