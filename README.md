@@ -20,12 +20,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/priyankarki/simpleToDo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Notes
-
-While I was completing the work with the tutorial I was able to implement all of the features in the code. However, after adding the list of items persistence, the app fails to remove items and the persistence of items causes the app to crash. The terminal primarily displays the error below, as the app crashes when there is a long press to delete an item or when the app is restarted to show the item persistence, as shown above in the walkthrough.
-
-<img src='https://github.com/priyankarki/simpleToDo/blob/master/terminalError.png' alt='Terminal error' />
-
 
 ## License
 
