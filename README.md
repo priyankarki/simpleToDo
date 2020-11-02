@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/priyankarki/simpleToDo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/priyankarki/simpleToDo/blob/master/simpletodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
